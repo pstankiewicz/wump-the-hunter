@@ -17,8 +17,9 @@ Driectories
 Platform
 --------
 
-Basic v2.0 - Commodore 64
-Category PUR-80
+* Interpreter: Basic v2.0
+* Machine: Commodore 64
+* Category: PUR-80
 
 
 Tagline
