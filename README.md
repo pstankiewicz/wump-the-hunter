@@ -28,4 +28,4 @@ Playing the game
 
 You are put in random dodecahedron place. You are sleeping. If any hunter steps in same room as you, you will autmatically kill him. If any hunter gets in any room near your current position, you feel something is wrong, and you must choose a room to check. If you success, you kill hunter. If you fail, hunter catches and kills you.
 
-In the end you will die. This is sad Wumpus life - countles of players just trying to kill poor Wumpus. Poor You. Question is - how many Hunters will you kill before your end?
+In the end you will die. This is sad Wumpus life - countless of players just trying to kill poor Wumpus. Poor You. Question is - how many Hunters will you kill before your end?
