@@ -6,7 +6,7 @@ Basic Tenliners 2017 Competition Entry
 Tagline
 =======
 
-You are Mythical Wumpus. You live (mostly sleeping) in [dodecahedron](https://en.wikipedia.org/wiki/Dodecahedron) happy and peaceful life.
+You are Mythical Wumpus. You live (mostly sleeping) happy and peaceful life in your [dodecahedron](https://en.wikipedia.org/wiki/Dodecahedron).
 
 But the Hunters are killing you! Literally! Can you get rid of them?
 
