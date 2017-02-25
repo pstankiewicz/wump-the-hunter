@@ -3,6 +3,24 @@ wump-the-hunter
 
 Basic Tenliners 2017 Competition Entry
 
+Technical
+=========
+
+Driectories
+-----------
+
+* ./bin - binary (prg) files
+* ./src - text source files
+* ./img - d64 image
+* README.md - this file
+
+Platform
+--------
+
+Basic v2.0 - Commodore 64
+Category PUR-80
+
+
 Tagline
 =======
 
